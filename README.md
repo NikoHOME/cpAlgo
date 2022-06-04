@@ -1,2 +1,2 @@
 # cpAlgo
-Collection of usefull algorithms.
+Collection of usefull algorithms and other.
